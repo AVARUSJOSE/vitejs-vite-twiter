@@ -1,0 +1,9 @@
+body{
+  margin: 0;
+  background: #222;
+  font-family: sans-serif;
+  place-content: center;
+  display: grid;
+  min-height: 100vh;
+}
+
